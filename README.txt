@@ -6,3 +6,6 @@ Features of Code
 
 Other:
 2 test CSV files: inventory_data.csv; winning_lottery_numbers.csv (data.gov)
+
+BEFOR RUNNING INSTALL DEPENDENCIES:
+pip install dash pandas plotly
